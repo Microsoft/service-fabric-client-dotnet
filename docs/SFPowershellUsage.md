@@ -5,7 +5,7 @@ The new Service Fabric Powershell module works over HTTP with the service Fabric
 - [Windows Powershell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
 
 ## Getting the module
-The module is available in Powershell Gallery, for more information on downloading packages from Powershell Gallery, please see [Downloading packages from the PowerShell Gallery](https://docs.microsoft.com/en-us/powershell/gallery/getting-started#downloading-packages-from-the-powershell-gallery).
+The module is available in Powershell Gallery, for more information on downloading packages from Powershell Gallery, please see [Downloading packages from the PowerShell Gallery](https://docs.microsoft.com/en-us/powershell/scripting/gallery/getting-started#downloading-packages-from-the-powershell-gallery).
 
 ### Powershell Core
 Service Fabric REST Powershell module is available in Powershell Gallery and can be installed as
